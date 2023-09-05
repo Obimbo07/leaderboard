@@ -1,0 +1,14 @@
+.score-body {
+    padding: 50px;
+}
+
+.inner-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.form-section {
+    display: block;
+}
